@@ -118,7 +118,7 @@
 
       .five-day-forecast {
         font-size: 12px;
-        color: #f9decf;
+        color: rgba(0, 0, 128, 0.507);
       }
 
       .day-one-high,
@@ -159,3 +159,15 @@
         margin: 0 auto;
         padding-top: 5px;
       }
+
+      footer {
+        text-align: center;
+        font-size: 12px;
+        color: azure;
+        }
+
+        .gitHub-link{
+          text-decoration: none;
+          color: rgb(255, 199, 199);
+          
+        }
