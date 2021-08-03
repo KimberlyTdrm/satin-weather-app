@@ -21,7 +21,7 @@
         max-height: fit-content;
         border: 1px solid purple;
         border-radius: 6px;
-        margin: 20px;
+        margin: 0 auto;
         padding: 20px 15px;
 
         background-image: url(https://images.pexels.com/photos/2440078/pexels-photo-2440078.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500);
@@ -124,7 +124,6 @@
 
       .five-day-header{
          text-shadow: 1px 1px 2px white;
-         
       }
 
       .day-one-high,
