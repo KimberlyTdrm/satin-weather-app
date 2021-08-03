@@ -118,7 +118,13 @@
 
       .five-day-forecast {
         font-size: 12px;
-        color: rgba(0, 0, 128, 0.507);
+        color: rgba(0, 0, 128, 0.507);  
+         
+     }
+
+      .five-day-header{
+         text-shadow: 1px 1px 2px white;
+         
       }
 
       .day-one-high,
